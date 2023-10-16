@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Dancing+Script&family=Dela+Gothic+One&family=Oswald:wght@500&family=PT+Serif&family=Pacifico&family=Playfair+Display&family=Roboto+Condensed:ital@1&display=swap');
+.first{font-family: 'Abril Fatface', serif;
+background-color: rgba(0, 0, 0, 0.422);
+color:black;
+}
+.bg{
+    background-color: rgba(0, 0, 0, 0.422) ;
+}
+button{
+    background-color:black;
+    color: white;
+    border-radius: 5px;
+}
+.over:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
